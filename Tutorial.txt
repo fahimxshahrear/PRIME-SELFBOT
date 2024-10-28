@@ -1,0 +1,3 @@
+put your account token in config.json 
+put your account token in status_rotator.py authentication variable
+then run main.py

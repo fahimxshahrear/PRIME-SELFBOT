@@ -1,0 +1,12 @@
+{
+    "I2C_Rate": 0.012,
+    "C2I_Rate": 89,
+    "LTC": "Put Your LTC Addy Here",
+    "BTC": "-------",
+    "ETH": "-------",
+    "UPI": "Put your UPI ID Here",
+    "Twitch_URL": "https://discord.gg",
+    "SERVER_LINK": "https://discord.gg/RxcsEf83mY",
+    "channel_ids": [],
+    "Token": ""
+}
