@@ -19,7 +19,7 @@ By using this SelfBot, you agree that you hold responsibility and accountability
 
 ## HOW TO OVERCOME ERROR ?
 
-To overcome any error or problem or any query you can contact me on insta(fahimxshahrear) or on discord(https://discord.gg/njq2NSVMpR)
+To overcome any error or problem or any query you can contact me on insta(fahimxshahrear) or on [discord](https://discord.gg/starboosts)
 
 ### TYPE HELP ON DISCORD TO SEE FEATURES OF YOU BOT...
 
